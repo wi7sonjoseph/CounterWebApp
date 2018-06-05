@@ -1,2 +1,0 @@
-# CounterWebApp
-Spring Application
